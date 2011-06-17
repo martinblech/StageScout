@@ -44,18 +44,27 @@ nav {
 }
 
 h1{
-   font-size: 100px;
-   font-family: 'Cabin Sketch'
+  font-size: 100px;
 }
+header {
+  font-family: 'Cabin Sketch'
+}
+h1 img {
+  height: 80px;
+}
+
     </style>
   </head> 
 
   <body>
     <header>
-      <hgroup>
-        <h1>StageScout</h1>
-        <h2>Your personalized festival schedule</h2>
-      </hgroup>
+      <h1>
+        <a href="http://bmat.com/" target="_blank"><img src="http://mtg.upf.edu/files/bmat.jpg" /></a>
+        +
+        <a href="http://2011.sonar.es/" target="_blank"><img src="http://2011.sonar.es/img/logo_home.gif" /></a>
+        = StageScout
+      <h1>
+      <h2>Your personalized festival schedule</h2>
     </header>
     <nav>
     {% if current_user %}
@@ -68,7 +77,6 @@ h1{
     {% endif %}
     </nav>
     {% if current_user %}
-      <p>Your schedule is:</p>
       <table border="1">
         <tr>
           <th>time</th>
