@@ -6,7 +6,47 @@
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->    
+
+    <link href='http://fonts.googleapis.com/css?family=Cabin+Sketch:bold&v1' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssbase/base-min.css">
+    
     <style type="text/css">
+body {
+background: url(http://subtlepatterns.com/patterns/concrete_wall_2.png);
+padding-left: 100px;
+}
+
+table, th, td {
+  border: 0;
+}
+
+table {
+
+}
+
+th{
+  border-radius: 10px;
+  background: #a44;
+  
+}
+
+td {
+
+    background: rgba(175, 175, 175, .5);
+}
+
+nav {
+  float: right;
+  background: #caa;
+  background: rgba(210, 175, 175, .5);
+  border-radius: 10px;
+  padding: 2em;
+}
+
+h1{
+   font-size: 100px;
+   font-family: 'Cabin Sketch'
+}
     </style>
   </head> 
 
@@ -39,14 +79,21 @@
         <tr>
           <td>{{ event.start|escape }}</td>
           <td>{{ event.place|escape }}</td>
-          <td>{{ event.description }}</td>
+          <td>
+            <a href="{{ event.url }}">{{ event.artist.name|escape }}</a>
+          </td>
         </tr>
       {% endfor %}
       </table>
-      <p>... and you are going to miss:</p>
+      <p>... but you are going to miss:</p>
       <ul>
       {% for x in current_user.schedule.left_out %}
-      <li>{{ x.event.description }} (conflicts with {{ x.conflict.description }})</li>
+      <li>
+          <a href="{{ x.event.url }}">
+            {{ x.event.artist.name|escape }}
+          </a>
+          (conflicts with <a href="{{ x.conflict.url }}">{{ x.conflict.artist.name|escape }}</a>)
+      </li>
       {% endfor %}
       </ul>
     {% endif %}
