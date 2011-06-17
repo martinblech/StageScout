@@ -42,6 +42,8 @@ for event in festival['events']:
     event['start'] = datetime.datetime.strptime(event['timestamp'],
             '%Y-%m-%dT%H:%M:%S')
     event['end'] = event['start'] + datetime.timedelta(hours=2)
+    event['description'] = event['description'].replace('href="',
+            'href="http://2011.sonar.es')
 
 for event in festival['events']:
     for event2 in festival['events']:
@@ -49,10 +51,6 @@ for event in festival['events']:
                 event['start'] <= event2['start'] <= event['end']:
                     event['end'] = min(event['end'],
                             event2['start'] + datetime.timedelta(minutes=-1))
-
-for event in festival['events']:
-    event['start_iso'] = event['start'].isoformat()
-    event['end_iso'] = event['end'].isoformat()
 
 def build_schedule(scores):
     prioritized_events = festival['events'][:]
@@ -64,18 +62,18 @@ def build_schedule(scores):
     def conflicts(event):
         for event2 in my_events:
             if event['artist'] == event2['artist']:
-                return True
+                return event2
             if event['start'] <= event2['start'] <= event['end'] or \
                     event2['start'] <= event['start'] <= event2['end']:
-                        return True
+                        return event2
         return False
     for event in prioritized_events:
-        if not conflicts(event):
+        conflict = conflicts(event)
+        if not conflict:
             my_events.append(event)
         else:
-            left_out.append(event)
+            left_out.append(dict(event=event, conflict=conflict))
     my_events.sort(cmp=lambda x, y: cmp(x['start'], y['start']))
-    left_out.sort(cmp=lambda x, y: cmp(x['start'], y['start']))
     schedule = dict(
             my_events=my_events,
             left_out=left_out)

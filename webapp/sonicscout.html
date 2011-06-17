@@ -1,14 +1,33 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <title>Facebook OAuth Example</title>
-  </head>
+<!DOCTYPE html> 
+<html> 
+  <head> 
+    <meta charset="utf-8" />
+    <title>StageScout</title> 
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->    
+    <style type="text/css">
+    </style>
+  </head> 
+
   <body>
+    <header>
+      <hgroup>
+        <h1>StageScout</h1>
+        <h2>Your personalized festival schedule</h2>
+      </hgroup>
+    </header>
+    <nav>
     {% if current_user %}
       <p><a href="{{ current_user.profile_url }}"><img src="http://graph.facebook.com/{{ current_user.id }}/picture"/></a></p>
       <p>You are logged in as {{ current_user.name|escape }}</p>
       <p><a href="/auth/logout">Log out</a></p>
+    {% else %}
+      <p>You are not yet logged into this site</p>
+      <p><a href="/auth/login">Log in with Facebook</a></p>
+    {% endif %}
+    </nav>
+    {% if current_user %}
       <p>Your schedule is:</p>
       <table border="1">
         <tr>
@@ -26,13 +45,10 @@
       </table>
       <p>... and you are going to miss:</p>
       <ul>
-      {% for event in current_user.schedule.left_out %}
-      <li>{{ event.description }}</li>
+      {% for x in current_user.schedule.left_out %}
+      <li>{{ x.event.description }} (conflicts with {{ x.conflict.description }})</li>
       {% endfor %}
       </ul>
-    {% else %}
-      <p>You are not yet logged into this site</p>
-      <p><a href="/auth/login">Log in with Facebook</a></p>
     {% endif %}
   </body>
 </html>
