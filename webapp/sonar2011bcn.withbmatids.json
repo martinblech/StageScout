@@ -1,0 +1,1657 @@
+{
+    "events": [
+        {
+            "artist": {
+                "name": "Jan Jelinek, BJ Nilsen, Carl Michael Von Hausswolff, Francisco L\u00f3pez, Sawako, ALKU"
+            }, 
+            "description": "<a href=\"/en/artistes/jan-jelinek-bj-nilsen-carl-michael-von-hausswolff-francisco-lopez-sawako-alku_411.html\">Jan Jelinek, BJ Nilsen, Carl Michael Von Hausswolff, Francisco L\u00f3pez, Sawako, ALKU</a>", 
+            "place": "CosmoCaixa", 
+            "timestamp": "2011-06-16T10:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/jan-jelinek-bj-nilsen-carl-michael-von-hausswolff-francisco-lopez-sawako-alku_411.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "4cc4cd52-dfe6-4a98-bd3b-56cba1861c29", 
+                "name": "Ni\u00f1o"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/nino_450.html\">Ni\u00f1o</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T12:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/nino_450.html"
+        }, 
+        {
+            "artist": {
+                "name": "Ragul"
+            }, 
+            "description": "<a href=\"/en/artistes/ragul_426.html\">Ragul</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T12:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/ragul_426.html"
+        }, 
+        {
+            "artist": {
+                "name": "Barcelona Laptop Orchestra"
+            }, 
+            "description": "<a href=\"/en/artistes/barcelona-laptop-orchestra_429.html\">Barcelona Laptop Orchestra</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-16T13:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/barcelona-laptop-orchestra_429.html"
+        }, 
+        {
+            "artist": {
+                "name": "Pai Mei"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/pai-mei_453.html\">Pai Mei</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T13:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/pai-mei_453.html"
+        }, 
+        {
+            "artist": {
+                "name": "Beat'A'Boom"
+            }, 
+            "description": "<a href=\"/en/artistes/beataboom_425.html\">Beat'A'Boom</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-16T13:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/beataboom_425.html"
+        }, 
+        {
+            "artist": {
+                "name": "Half Nelson y Vidal Romero play Go Mag"
+            }, 
+            "description": "<a href=\"/en/artistes/half-nelson-y-vidal-romero-play-go-mag_412.html\">Half Nelson y Vidal Romero play Go Mag</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T13:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/half-nelson-y-vidal-romero-play-go-mag_412.html"
+        }, 
+        {
+            "artist": {
+                "name": "Hiroaki Oba"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/hiroaki-oba_457.html\">Hiroaki Oba</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T14:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/hiroaki-oba_457.html"
+        }, 
+        {
+            "artist": {
+                "name": "AEIOU"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/aeiou_396.html\">AEIOU</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T15:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/aeiou_396.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "33587fa3-f864-4a50-95ef-11d319d515bf", 
+                "name": "Toro Y Moi"
+            }, 
+            "description": "<a href=\"/en/artistes/toro-y-moi_380.html\">Toro Y Moi</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T15:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/toro-y-moi_380.html"
+        }, 
+        {
+            "artist": {
+                "name": "Poirier feat. Boogat"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/poirier-feat-boogat_397.html\">Poirier feat. Boogat</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T16:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/poirier-feat-boogat_397.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "8df3257c-c103-4c48-a119-32056794334b", 
+                "name": "Floating Points"
+            }, 
+            "description": "<a href=\"/en/artistes/floating-points_325.html\">Floating Points</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T16:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/floating-points_325.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "25549e0b-2de5-45af-bfd8-6ed8702d2eee", 
+                "name": "Nicolas Jaar"
+            }, 
+            "description": "<a href=\"/en/artistes/nicolas-jaar_354.html\">Nicolas Jaar</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-16T17:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/nicolas-jaar_354.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "813236ac-c6e9-414f-8f4e-689d799ea0cd", 
+                "name": "kidkanevil"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/kidkanevil_395.html\">kidkanevil</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T17:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/kidkanevil_395.html"
+        }, 
+        {
+            "artist": {
+                "name": "Open Reel Ensemble"
+            }, 
+            "description": "<a href=\"/en/artistes/open-reel-ensemble_367.html\">Open Reel Ensemble</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-16T17:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/open-reel-ensemble_367.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "e9985b45-a009-437b-b5ea-a8f2b5b01283", 
+                "name": "Little Dragon"
+            }, 
+            "description": "<a href=\"/en/artistes/little-dragon_309.html\">Little Dragon</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T17:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/little-dragon_309.html"
+        }, 
+        {
+            "artist": {
+                "name": "The Brandt Brauer Frick Ensemble"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/the-brandt-brauer-frick-ensemble_392.html\">The Brandt Brauer Frick Ensemble</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T18:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/the-brandt-brauer-frick-ensemble_392.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "80c9639b-d712-41b4-b51f-3ddc0cf87759", 
+                "name": "Shuttle"
+            }, 
+            "description": "Ninja Tune & Big Dada present <a href=\"/en/artistes/shuttle_358.html\">Shuttle</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T18:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/shuttle_358.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "ea04d3d5-3ef9-45c8-836a-058915475b5d", 
+                "name": "Tyondai Braxton"
+            }, 
+            "description": "<a href=\"/en/artistes/tyondai-braxton_311.html\">Tyondai Braxton</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-16T19:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/tyondai-braxton_311.html"
+        }, 
+        {
+            "artist": {
+                "name": "Daito Manabe"
+            }, 
+            "description": "<a href=\"/en/artistes/daito-manabe_381.html\">Daito Manabe</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-16T19:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/daito-manabe_381.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "f09decc7-50df-4422-86e6-203e5e9c6c8c", 
+                "name": "San Soda"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/san-soda_460.html\">San Soda</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T19:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/san-soda_460.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "f941f5db-b120-4beb-8d3a-3b6010ab2484", 
+                "name": "DELS"
+            }, 
+            "description": "Ninja Tune & Big Dada present <a href=\"/en/artistes/dels_359.html\">DELS</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T19:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/dels_359.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "bdba3a3b-9ef4-44d5-9f6f-dcccd465dc9b", 
+                "name": "Offshore"
+            }, 
+            "description": "Ninja Tune & Big Dada present <a href=\"/en/artistes/offshore_361.html\">Offshore</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T20:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/offshore_361.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "02301ce2-0788-4e31-b0b7-cc5f1c068b96", 
+                "name": "Raime"
+            }, 
+            "description": "<a href=\"/en/artistes/raime_326.html\">Raime</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-16T20:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/raime_326.html"
+        }, 
+        {
+            "artist": {
+                "name": "Jullian Gomes"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/jullian-gomes_373.html\">Jullian Gomes</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-16T20:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/jullian-gomes_373.html"
+        }, 
+        {
+            "artist": {
+                "name": "Denseland"
+            }, 
+            "description": "<a href=\"/en/artistes/denseland_337.html\">Denseland</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-16T21:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/denseland_337.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "a9422ef1-4f97-434d-990c-5b0556fd7982", 
+                "name": "Eskmo"
+            }, 
+            "description": "Ninja Tune & Big Dada present <a href=\"/en/artistes/eskmo_360.html\">Eskmo</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-16T21:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/eskmo_360.html"
+        }, 
+        {
+            "artist": {
+                "name": "Steve Reich: 'Music For 18 Musicians' and 'Sextet' performed by bcn216 + Synergy Vocals"
+            }, 
+            "description": "<a href=\"/en/artistes/steve-reich-music-for-18-musicians-and-sextet-performed-by-bcn216-synergy-vocals_306.html\">Steve Reich: 'Music For 18 Musicians' and 'Sextet' performed by bcn216 + Synergy Vocals</a>", 
+            "place": "L'Auditori de Barcelona", 
+            "timestamp": "2011-06-16T20:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/steve-reich-music-for-18-musicians-and-sextet-performed-by-bcn216-synergy-vocals_306.html"
+        }, 
+        {
+            "artist": {
+                "name": "Jan Jelinek, BJ Nilsen, Carl Michael Von Hausswolff, Francisco L\u00f3pez, Sawako, ALKU"
+            }, 
+            "description": "<a href=\"/en/artistes/jan-jelinek-bj-nilsen-carl-michael-von-hausswolff-francisco-lopez-sawako-alku_411.html\">Jan Jelinek, BJ Nilsen, Carl Michael Von Hausswolff, Francisco L\u00f3pez, Sawako, ALKU</a>", 
+            "place": "CosmoCaixa", 
+            "timestamp": "2011-06-17T10:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/jan-jelinek-bj-nilsen-carl-michael-von-hausswolff-francisco-lopez-sawako-alku_411.html"
+        }, 
+        {
+            "artist": {
+                "name": "Carlos Hollers"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/carlos-hollers_451.html\">Carlos Hollers</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T12:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/carlos-hollers_451.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "bc2b9568-fd93-4542-8491-ade766914c25", 
+                "name": "Neuron"
+            }, 
+            "description": "<a href=\"/en/artistes/neuron_444.html\">Neuron</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T12:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/neuron_444.html"
+        }, 
+        {
+            "artist": {
+                "name": "Xes\u00fas Valle"
+            }, 
+            "description": "<a href=\"/en/artistes/xesus-valle_368.html\">Xes\u00fas Valle</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-17T13:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/xesus-valle_368.html"
+        }, 
+        {
+            "artist": {
+                "name": "Stendhal Syndrome\u2028"
+            }, 
+            "description": "<a href=\"/en/artistes/stendhal-syndromea_416.html\">Stendhal Syndrome\u2028</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-17T13:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/stendhal-syndromea_416.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "7f457684-f4e1-4363-8ecb-7c8681636eba", 
+                "name": "Daisuke Tanabe"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/daisuke-tanabe_393.html\">Daisuke Tanabe</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T13:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/daisuke-tanabe_393.html"
+        }, 
+        {
+            "artist": {
+                "name": "Joan S. Luna"
+            }, 
+            "description": "<a href=\"/en/artistes/joan-s-luna_420.html\">Joan S. Luna</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T13:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/joan-s-luna_420.html"
+        }, 
+        {
+            "artist": {
+                "name": "Matador Rockers"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/matador-rockers_452.html\">Matador Rockers</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T14:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/matador-rockers_452.html"
+        }, 
+        {
+            "artist": {
+                "name": "Facto y los Amigos del Norte"
+            }, 
+            "description": "<a href=\"/en/artistes/facto-y-los-amigos-del-norte_386.html\">Facto y los Amigos del Norte</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T15:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/facto-y-los-amigos-del-norte_386.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "9d744885-0ec2-407c-b600-0f75c30fd678", 
+                "name": "Star Eyes"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/star-eyes_458.html\">Star Eyes</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T15:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/star-eyes_458.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "676abcc8-9185-4d10-a26e-3a0f61737344", 
+                "name": "Agoria"
+            }, 
+            "description": "<a href=\"/en/artistes/agoria_382.html\">Agoria</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T15:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/agoria_382.html"
+        }, 
+        {
+            "artist": {
+                "name": "Sewing Machine Orchestra"
+            }, 
+            "description": "<a href=\"/en/artistes/sewing-machine-orchestra_421.html\">Sewing Machine Orchestra</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-17T16:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/sewing-machine-orchestra_421.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "8b616dfd-ae62-494b-8267-9596efa0ec5f", 
+                "name": "Zinc"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/zinc_389.html\">Zinc</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T16:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/zinc_389.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "b20c93d8-6815-40eb-b211-0f2d823a34f3", 
+                "name": "Astrud + Col\u00b7lectiu Brossa"
+            }, 
+            "description": "<a href=\"/en/artistes/astrud-collectiu-brossa_327.html\">Astrud + Col\u00b7lectiu Brossa</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-17T17:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/astrud-collectiu-brossa_327.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "95d32fe4-fb50-4621-9adc-3b2318fcdfab", 
+                "name": "Atmosphere"
+            }, 
+            "description": "<a href=\"/en/artistes/atmosphere_314.html\">Atmosphere</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T17:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/atmosphere_314.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "bdf2ceae-ecc5-4a3c-b970-0e7ec7e5ff38", 
+                "name": "oOoOO"
+            }, 
+            "description": "Tri Angle presents <a href=\"/en/artistes/ooooo_424.html\">oOoOO</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-17T17:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/ooooo_424.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "e4d0a0f4-6b11-478e-8171-cab52dc190d7", 
+                "name": "Katy B"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/katy-b_355.html\">Katy B</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T17:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/katy-b_355.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "8b290456-3e99-4e0f-801a-34264f2764f1", 
+                "name": "DJ Raff"
+            }, 
+            "description": "<a href=\"/en/artistes/dj-raff_442.html\">DJ Raff</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T18:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/dj-raff_442.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "1eaeebb9-fe0d-440f-bbfe-a0cd5c1a8fdc", 
+                "name": "How To Dress Well"
+            }, 
+            "description": "Tri Angle presents <a href=\"/en/artistes/how-to-dress-well_343.html\">How To Dress Well</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-17T18:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/how-to-dress-well_343.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "964ae676-d1c2-48c2-8073-865ac92c4c8b", 
+                "name": "Teebs"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/teebs_398.html\">Teebs</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T18:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/teebs_398.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "d411444e-b815-4557-adcd-2add0f3b41f9", 
+                "name": "Hauschka"
+            }, 
+            "description": "<a href=\"/en/artistes/hauschka_401.html\">Hauschka</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-17T19:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/hauschka_401.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "fe3855e8-610a-47bd-98b0-bd405e0ed4d8", 
+                "name": "Four Tet"
+            }, 
+            "description": "<a href=\"/en/artistes/four-tet_436.html\">Four Tet</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T19:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/four-tet_436.html"
+        }, 
+        {
+            "artist": {
+                "name": "Holy Other"
+            }, 
+            "description": "Tri Angle presents <a href=\"/en/artistes/holy-other_344.html\">Holy Other</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-17T19:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/holy-other_344.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "a2e638e7-9d91-4384-8128-28b7c6642b26", 
+                "name": "Discodeine"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/discodeine_394.html\">Discodeine</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T19:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/discodeine_394.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "f9386ca6-07f6-4b39-af5d-0332290617a4", 
+                "name": "Nacho Marco"
+            }, 
+            "description": "<a href=\"/en/artistes/nacho-marco_439.html\">Nacho Marco</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T20:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/nacho-marco_439.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "5cd35b6a-755d-472b-b9b9-9e5c5d8a6755", 
+                "name": "B. Bravo"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/b-bravo_391.html\">B. Bravo</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-17T20:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/b-bravo_391.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "3b26681c-1fd8-4dc6-ac18-6c52d22f668f", 
+                "name": "Ghostpoet"
+            }, 
+            "description": "<a href=\"/en/artistes/ghostpoet_423.html\">Ghostpoet</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-17T20:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/ghostpoet_423.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "4823e78f-9e4c-4f13-b659-480ff9755c5a", 
+                "name": "Oy"
+            }, 
+            "description": "<a href=\"/en/artistes/oy_322.html\">Oy</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-17T21:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/oy_322.html"
+        }, 
+        {
+            "artist": {
+                "name": "Dominique Young Unique"
+            }, 
+            "description": "<a href=\"/en/artistes/dominique-young-unique_329.html\">Dominique Young Unique</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-17T21:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/dominique-young-unique_329.html"
+        }, 
+        {
+            "artist": {
+                "name": "Shelby Grey"
+            }, 
+            "description": "<a href=\"/en/artistes/shelby-grey_422.html\">Shelby Grey</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T21:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/shelby-grey_422.html"
+        }, 
+        {
+            "artist": {
+                "name": "El Plan B de Carlos Jean"
+            }, 
+            "description": "<a href=\"/en/artistes/el-plan-b-de-carlos-jean_446.html\">El Plan B de Carlos Jean</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T22:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/el-plan-b-de-carlos-jean_446.html"
+        }, 
+        {
+            "artist": {
+                "name": "Radiocontrol"
+            }, 
+            "description": "<a href=\"/en/artistes/radiocontrol_441.html\">Radiocontrol</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T22:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/radiocontrol_441.html"
+        }, 
+        {
+            "artist": {
+                "name": "MouseUp"
+            }, 
+            "description": "<a href=\"/en/artistes/mouseup_438.html\">MouseUp</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-17T22:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/mouseup_438.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "6772fbec-608d-42aa-8ce9-23ef6f9cc564", 
+                "name": "Cyclo"
+            }, 
+            "description": "<a href=\"/en/artistes/cyclo_449.html\">Cyclo</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T22:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/cyclo_449.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "d4c6d998-0748-436c-9cf0-8daf00ba50d5", 
+                "name": "Diskjokke"
+            }, 
+            "description": "Smalltown Supersound presents <a href=\"/en/artistes/diskjokke_364.html\">Diskjokke</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T23:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/diskjokke_364.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "092bccfa-09eb-41c6-b8e8-1be6ad457ad0", 
+                "name": "The Human League"
+            }, 
+            "description": "<a href=\"/en/artistes/the-human-league_403.html\">The Human League</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T23:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/the-human-league_403.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "4cc39b5d-ec27-48eb-85df-0119acb37c9b", 
+                "name": "Cut Copy"
+            }, 
+            "description": "<a href=\"/en/artistes/cut-copy_316.html\">Cut Copy</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T23:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/cut-copy_316.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "fcf04423-05d3-4a59-a6b4-2cc3bfc253f1", 
+                "name": "Trentem\u00f8ller"
+            }, 
+            "description": "<a href=\"/en/artistes/trentemoller_341.html\">Trentem\u00f8ller</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-17T23:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/trentemoller_341.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "1d8c5b34-7591-448f-9935-20a680f7efea", 
+                "name": "Annie"
+            }, 
+            "description": "Smalltown Supersound presents <a href=\"/en/artistes/annie_365.html\">Annie</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T23:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/annie_365.html"
+        }, 
+        {
+            "artist": {
+                "name": "Munchi"
+            }, 
+            "description": "<a href=\"/en/artistes/munchi_318.html\">Munchi</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T00:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/munchi_318.html"
+        }, 
+        {
+            "artist": {
+                "name": "Benji B"
+            }, 
+            "description": "BBC Radio 1 presents <a href=\"/en/artistes/benji-b_375.html\">Benji B</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T00:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/benji-b_375.html"
+        }, 
+        {
+            "artist": {
+                "name": "MouseUp"
+            }, 
+            "description": "<a href=\"/en/artistes/mouseup_438.html\">MouseUp</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-17T00:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/mouseup_438.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "e46cf23c-877c-4a0f-81a8-f79e8b58ee27", 
+                "name": "Bj\u00f8rn Torske"
+            }, 
+            "description": "Smalltown Supersound presents <a href=\"/en/artistes/bjorn-torske_366.html\">Bj\u00f8rn Torske</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T00:45:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/bjorn-torske_366.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "9879f920-e338-41d9-a822-2b8972cf12da", 
+                "name": "M.I.A."
+            }, 
+            "description": "<a href=\"/en/artistes/mia_307.html\">M.I.A.</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T00:45:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/mia_307.html"
+        }, 
+        {
+            "artist": {
+                "name": "Pearson Sound aka Ramadanman"
+            }, 
+            "description": "BBC Radio 1 presents <a href=\"/en/artistes/pearson-sound-aka-ramadanman_405.html\">Pearson Sound aka Ramadanman</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T01:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/pearson-sound-aka-ramadanman_405.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "5b9173fd-0c95-4e03-842f-8d5b036baf8b", 
+                "name": "Dizzee Rascal"
+            }, 
+            "description": "<a href=\"/en/artistes/dizzee-rascal_413.html\">Dizzee Rascal</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-17T01:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/dizzee-rascal_413.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "6a4c1f3b-500f-4906-8dd4-74c6e303365b", 
+                "name": "Scuba"
+            }, 
+            "description": "<a href=\"/en/artistes/scuba_385.html\">Scuba</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T01:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/scuba_385.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "e4d0a0f4-6b11-478e-8171-cab52dc190d7", 
+                "name": "Katy B"
+            }, 
+            "description": "BBC Radio 1 presents <a href=\"/en/artistes/katy-b_404.html\">Katy B</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T02:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/katy-b_404.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "dbc77c2a-9790-42c1-ad48-a008f730eece", 
+                "name": "Steve Aoki"
+            }, 
+            "description": "<a href=\"/en/artistes/steve-aoki_347.html\">Steve Aoki</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-17T02:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/steve-aoki_347.html"
+        }, 
+        {
+            "artist": {
+                "name": "Mujuice"
+            }, 
+            "description": "Russian Beats presents <a href=\"/en/artistes/mujuice_320.html\">Mujuice</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T02:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/mujuice_320.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "8c978543-7ed9-4cff-aa30-f7b6724fb779", 
+                "name": "Aphex Twin"
+            }, 
+            "description": "<a href=\"/en/artistes/aphex-twin_334.html\">Aphex Twin</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T02:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/aphex-twin_334.html"
+        }, 
+        {
+            "artist": {
+                "name": "Annie Mac"
+            }, 
+            "description": "BBC Radio 1 presents <a href=\"/en/artistes/annie-mac_374.html\">Annie Mac</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T02:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/annie-mac_374.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "1b93d269-2f93-437c-9637-4c826aae1aa8", 
+                "name": "DZA"
+            }, 
+            "description": "Russian Beats presents <a href=\"/en/artistes/dza_319.html\">DZA</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T03:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/dza_319.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "29bd7f1c-989d-4c81-af4d-964b4d5f99a5", 
+                "name": "Die Antwoord"
+            }, 
+            "description": "<a href=\"/en/artistes/die-antwoord_313.html\">Die Antwoord</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-17T03:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/die-antwoord_313.html"
+        }, 
+        {
+            "artist": {
+                "name": "Redlight feat. Ms. Dynamite & Dread MC"
+            }, 
+            "description": "BBC Radio 1 presents <a href=\"/en/artistes/redlight-feat-ms-dynamite-dread-mc_406.html\">Redlight feat. Ms. Dynamite & Dread MC</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T03:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/redlight-feat-ms-dynamite-dread-mc_406.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "63ae7016-51c0-4e31-8ee0-71e717b78d0a", 
+                "name": "Sistema"
+            }, 
+            "description": "Natura Sonoris presents <a href=\"/en/artistes/sistema_417.html\">Sistema</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T04:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/sistema_417.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "d9e75b1c-509d-49f8-9e36-fcd180bacdec", 
+                "name": "Djedjotronic"
+            }, 
+            "description": "<a href=\"/en/artistes/djedjotronic_387.html\">Djedjotronic</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T04:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/djedjotronic_387.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "a069e8bf-fdf7-4ff4-b5c4-a7725046fc5b", 
+                "name": "A-Trak"
+            }, 
+            "description": "<a href=\"/en/artistes/a-trak_308.html\">A-Trak</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-17T04:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/a-trak_308.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "09253c99-c8d3-4f30-9df1-81aac8e124d8", 
+                "name": "Toddla T"
+            }, 
+            "description": "BBC Radio 1 presents <a href=\"/en/artistes/toddla-t_376.html\">Toddla T</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T04:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/toddla-t_376.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "a66d4303-c093-4e1a-9af9-19979682be4a", 
+                "name": "Henry Saiz"
+            }, 
+            "description": "Natura Sonoris presents <a href=\"/en/artistes/henry-saiz_414.html\">Henry Saiz</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T04:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/henry-saiz_414.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "db7b034f-6b82-4c01-b053-efb101336c43", 
+                "name": "Boys Noize"
+            }, 
+            "description": "<a href=\"/en/artistes/boys-noize_328.html\">Boys Noize</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T04:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/boys-noize_328.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "d30196bd-ef52-4881-8a87-18e9b21bb177", 
+                "name": "Tiga"
+            }, 
+            "description": "<a href=\"/en/artistes/tiga_427.html\">Tiga</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-17T05:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/tiga_427.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "d1f8aa6d-5589-44b9-8d51-cde07d1748b0", 
+                "name": "James Murphy"
+            }, 
+            "description": "<a href=\"/en/artistes/james-murphy_435.html\">James Murphy</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-17T05:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/james-murphy_435.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "4c9d2547-a4ac-4145-8742-27c4211d4f24", 
+                "name": "Schlachthofbronx"
+            }, 
+            "description": "<a href=\"/en/artistes/schlachthofbronx_388.html\">Schlachthofbronx</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-17T06:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/schlachthofbronx_388.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "d9e75b1c-509d-49f8-9e36-fcd180bacdec", 
+                "name": "Djedjotronic"
+            }, 
+            "description": "<a href=\"/en/artistes/djedjotronic_387.html\">Djedjotronic</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-17T06:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/djedjotronic_387.html"
+        }, 
+        {
+            "artist": {
+                "name": "Jan Jelinek, BJ Nilsen, Carl Michael Von Hausswolff, Francisco L\u00f3pez, Sawako, ALKU"
+            }, 
+            "description": "<a href=\"/en/artistes/jan-jelinek-bj-nilsen-carl-michael-von-hausswolff-francisco-lopez-sawako-alku_411.html\">Jan Jelinek, BJ Nilsen, Carl Michael Von Hausswolff, Francisco L\u00f3pez, Sawako, ALKU</a>", 
+            "place": "CosmoCaixa", 
+            "timestamp": "2011-06-18T10:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/jan-jelinek-bj-nilsen-carl-michael-von-hausswolff-francisco-lopez-sawako-alku_411.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "bcf7aeba-1064-4f60-b07f-3ed3c4e29d05", 
+                "name": "Debilorithmicos"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/debilorithmicos_448.html\">Debilorithmicos</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-18T12:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/debilorithmicos_448.html"
+        }, 
+        {
+            "artist": {
+                "name": "Nacho Bay"
+            }, 
+            "description": "<a href=\"/en/artistes/nacho-bay_437.html\">Nacho Bay</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T12:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/nacho-bay_437.html"
+        }, 
+        {
+            "artist": {
+                "name": "L\u2019Eix"
+            }, 
+            "description": "<a href=\"/en/artistes/laeix_443.html\">L\u2019Eix</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-18T13:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/laeix_443.html"
+        }, 
+        {
+            "artist": {
+                "name": "Edred\u00f3n"
+            }, 
+            "description": "<a href=\"/en/artistes/edredon_369.html\">Edred\u00f3n</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-18T13:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/edredon_369.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "144a776c-dd95-4553-b413-f9bc41dee55a", 
+                "name": "00Genesis"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/00genesis_459.html\">00Genesis</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-18T13:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/00genesis_459.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "9f251bf4-d8a4-4496-b2c4-07adfa8a1d5a", 
+                "name": "Judah"
+            }, 
+            "description": "<a href=\"/en/artistes/judah_362.html\">Judah</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T13:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/judah_362.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "2426eb11-2228-4568-931e-91121a9b5e36", 
+                "name": "Venice"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/venice_399.html\">Venice</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-18T14:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/venice_399.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "258a8e56-5fea-4791-9fd4-0e2c681759b8", 
+                "name": "No Surrender"
+            }, 
+            "description": "<a href=\"/en/artistes/no-surrender_384.html\">No Surrender</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T15:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/no-surrender_384.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "c95c406c-7909-4eef-9a1c-d26be849a68e", 
+                "name": "David Rodigan"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/david-rodigan_454.html\">David Rodigan</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-18T15:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/david-rodigan_454.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "c58511cf-3afa-4805-8df8-ab5ac1bb3b7b", 
+                "name": "Gilles Peterson"
+            }, 
+            "description": "<a href=\"/en/artistes/gilles-peterson_338.html\">Gilles Peterson</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T15:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/gilles-peterson_338.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "72b2cfad-f2e8-4715-8c84-3ef724d49848", 
+                "name": "EVOL"
+            }, 
+            "description": "<a href=\"/en/artistes/evol_371.html\">EVOL</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-18T16:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/evol_371.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "cf414413-65c2-4c1c-8a5c-1d09e6c53263", 
+                "name": "Electric Wire Hustle"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/electric-wire-hustle_456.html\">Electric Wire Hustle</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-18T17:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/electric-wire-hustle_456.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "d1b35747-5ae0-49b6-a286-f2e075753251", 
+                "name": "Global Communication"
+            }, 
+            "description": "<a href=\"/en/artistes/global-communication_321.html\">Global Communication</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-18T17:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/global-communication_321.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "7e77a502-20a4-4482-8c85-51391293eb4f", 
+                "name": "Yelawolf"
+            }, 
+            "description": "<a href=\"/en/artistes/yelawolf_415.html\">Yelawolf</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T17:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/yelawolf_415.html"
+        }, 
+        {
+            "artist": {
+                "name": "Downliners Sekt"
+            }, 
+            "description": "Disboot presents <a href=\"/en/artistes/downliners-sekt_408.html\">Downliners Sekt</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-18T17:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/downliners-sekt_408.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "37812793-e55f-4d51-a5ee-fcbaf8bd24ac", 
+                "name": "Illum Sphere"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/illum-sphere_372.html\">Illum Sphere</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-18T18:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/illum-sphere_372.html"
+        }, 
+        {
+            "artist": {
+                "name": "El Timbe"
+            }, 
+            "description": "<a href=\"/en/artistes/el-timbe_440.html\">El Timbe</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T18:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/el-timbe_440.html"
+        }, 
+        {
+            "artist": {
+                "name": "Apparat Band"
+            }, 
+            "description": "<a href=\"/en/artistes/apparat-band_407.html\">Apparat Band</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-18T19:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/apparat-band_407.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "11dcb3b6-38e2-4216-ada3-d79270f6e999", 
+                "name": "Cosmin TRG"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/cosmin-trg_455.html\">Cosmin TRG</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-18T19:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/cosmin-trg_455.html"
+        }, 
+        {
+            "artist": {
+                "name": "Shangaan Electro"
+            }, 
+            "description": "<a href=\"/en/artistes/shangaan-electro_383.html\">Shangaan Electro</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T19:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/shangaan-electro_383.html"
+        }, 
+        {
+            "artist": {
+                "name": "C156"
+            }, 
+            "description": "Disboot presents <a href=\"/en/artistes/c156_409.html\">C156</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-18T19:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/c156_409.html"
+        }, 
+        {
+            "artist": {
+                "name": "DJ Sith & David M"
+            }, 
+            "description": "<a href=\"/en/artistes/dj-sith-david-m_363.html\">DJ Sith & David M</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T20:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/dj-sith-david-m_363.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "8aafc51d-b872-452a-a4f3-dc5b220271ad", 
+                "name": "Tiger & Woods"
+            }, 
+            "description": "Red Bull Music Academy at SonarD\u00f4me presents <a href=\"/en/artistes/tiger-woods_390.html\">Tiger & Woods</a>", 
+            "place": "SonarD\u00f4me", 
+            "timestamp": "2011-06-18T20:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/tiger-woods_390.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "32328b0a-018f-43c5-a58f-59e46d7dadee", 
+                "name": "Actress"
+            }, 
+            "description": "<a href=\"/en/artistes/actress_357.html\">Actress</a>", 
+            "place": "SonarHall", 
+            "timestamp": "2011-06-18T20:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/actress_357.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "94a01cbf-24b8-42d8-9942-a0821fcec783", 
+                "name": "Hype Williams"
+            }, 
+            "description": "<a href=\"/en/artistes/hype-williams_315.html\">Hype Williams</a>", 
+            "place": "SonarComplex", 
+            "timestamp": "2011-06-18T21:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/hype-williams_315.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "316e0a8b-a3e5-4a5f-a21e-95ee56c56e7a", 
+                "name": "Filewile"
+            }, 
+            "description": "<a href=\"/en/artistes/filewile_323.html\">Filewile</a>", 
+            "place": "SonarVillage by Estrella Damm", 
+            "timestamp": "2011-06-18T21:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/filewile_323.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "dcdc68f4-e98b-4fcb-98d2-01c203ba037e", 
+                "name": "Aster"
+            }, 
+            "description": "<a href=\"/en/artistes/aster_430.html\">Aster</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T22:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/aster_430.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "46b42c03-0dd7-4304-8879-c469ddf8f741", 
+                "name": "Angel Molina"
+            }, 
+            "description": "<a href=\"/en/artistes/angel-molina_447.html\">Angel Molina</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-18T22:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/angel-molina_447.html"
+        }, 
+        {
+            "artist": {
+                "name": "Pffff"
+            }, 
+            "description": "<a href=\"/en/artistes/pffff_432.html\">Pffff</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T22:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/pffff_432.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "ffdcb0b9-461c-449b-85c5-ce36e6b0b2ef", 
+                "name": "Pablo S\u00e1nchez"
+            }, 
+            "description": "<a href=\"/en/artistes/pablo-sanchez_445.html\">Pablo S\u00e1nchez</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-18T22:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/pablo-sanchez_445.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "25778473-0bf7-4663-bc1b-eda68ddc22ac", 
+                "name": "Chris Cunningham"
+            }, 
+            "description": "<a href=\"/en/artistes/chris-cunningham_356.html\">Chris Cunningham</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-18T23:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/chris-cunningham_356.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "294f3282-1d47-4af4-a5c8-952628eba1b3", 
+                "name": "Arandel"
+            }, 
+            "description": "InFin\u00e9 presents <a href=\"/en/artistes/arandel_335.html\">Arandel</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T23:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/arandel_335.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "8cec9283-9715-410e-8a22-a9708b1c4f48", 
+                "name": "Yelle"
+            }, 
+            "description": "<a href=\"/en/artistes/yelle_400.html\">Yelle</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T23:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/yelle_400.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "95efca1d-8c69-49e8-8434-10820b0a7e72", 
+                "name": "Janelle Mon\u00e1e"
+            }, 
+            "description": "<a href=\"/en/artistes/janelle-monae_402.html\">Janelle Mon\u00e1e</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-18T23:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/janelle-monae_402.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "46b42c03-0dd7-4304-8879-c469ddf8f741", 
+                "name": "Angel Molina"
+            }, 
+            "description": "<a href=\"/en/artistes/angel-molina_447.html\">Angel Molina</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-18T00:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/angel-molina_447.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "cb01b092-1afc-453d-9c04-6b7da9236b6f", 
+                "name": "Clara Moto"
+            }, 
+            "description": "InFin\u00e9 presents <a href=\"/en/artistes/clara-moto_336.html\">Clara Moto</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T00:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/clara-moto_336.html"
+        }, 
+        {
+            "artist": {
+                "name": "The Zombie Kids"
+            }, 
+            "description": "<a href=\"/en/artistes/the-zombie-kids_461.html\">The Zombie Kids</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T00:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/the-zombie-kids_461.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "fa18ebfe-242c-4917-9275-e9d7414a7089", 
+                "name": "Africa Hitech"
+            }, 
+            "description": "<a href=\"/en/artistes/africa-hitech_330.html\">Africa Hitech</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-18T00:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/africa-hitech_330.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "5030321e-9701-4606-a062-ad9d87ee36b1", 
+                "name": "Underworld"
+            }, 
+            "description": "<a href=\"/en/artistes/underworld_312.html\">Underworld</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-18T00:45:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/underworld_312.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "7b1e3ea1-fac4-4a08-9c65-024e7be82ff2", 
+                "name": "Shackleton"
+            }, 
+            "description": "<a href=\"/en/artistes/shackleton_346.html\">Shackleton</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T01:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/shackleton_346.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "b091883b-4c6c-4b73-98e3-889688a2ff5d", 
+                "name": "Rone"
+            }, 
+            "description": "InFin\u00e9 presents <a href=\"/en/artistes/rone_339.html\">Rone</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T01:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/rone_339.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "63ae7016-51c0-4e31-8ee0-71e717b78d0a", 
+                "name": "Buraka Som Sistema"
+            }, 
+            "description": "<a href=\"/en/artistes/buraka-som-sistema_345.html\">Buraka Som Sistema</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-18T01:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/buraka-som-sistema_345.html"
+        }, 
+        {
+            "artist": {
+                "name": "Redinho"
+            }, 
+            "description": "Numbers presents <a href=\"/en/artistes/redinho_351.html\">Redinho</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T02:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/redinho_351.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "9d0e33c2-e34f-43fa-9070-c736d1f56f89", 
+                "name": "Lucy"
+            }, 
+            "description": "Stroboscopic Artefacts presents <a href=\"/en/artistes/lucy_418.html\">Lucy</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T02:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/lucy_418.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "e17fe829-22f7-415a-a64a-1abf8201a06a", 
+                "name": "The Gaslamp Killer"
+            }, 
+            "description": "<a href=\"/en/artistes/the-gaslamp-killer_377.html\">The Gaslamp Killer</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-18T02:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/the-gaslamp-killer_377.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "9cb6e140-7417-45ce-bc82-a24db38aeef8", 
+                "name": "Spencer"
+            }, 
+            "description": "Numbers presents <a href=\"/en/artistes/spencer_352.html\">Spencer</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T02:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/spencer_352.html"
+        }, 
+        {
+            "artist": {
+                "name": "Mary Anne Hobbs"
+            }, 
+            "description": "<a href=\"/en/artistes/mary-anne-hobbs_317.html\">Mary Anne Hobbs</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-18T02:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/mary-anne-hobbs_317.html"
+        }, 
+        {
+            "artist": {
+                "name": "Dadub"
+            }, 
+            "description": "Stroboscopic Artefacts presents <a href=\"/en/artistes/dadub_419.html\">Dadub</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T03:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/dadub_419.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "b1dd8851-64be-478d-81e0-f3d71f4e3005", 
+                "name": "Magnetic Man"
+            }, 
+            "description": "<a href=\"/en/artistes/magnetic-man_305.html\">Magnetic Man</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-18T03:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/magnetic-man_305.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "3be8613f-4c50-4185-b122-1d2dbac403f2", 
+                "name": "Deadboy"
+            }, 
+            "description": "Numbers presents <a href=\"/en/artistes/deadboy_348.html\">Deadboy</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T03:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/deadboy_348.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "9282fd6e-6a2e-462b-9c29-80fa9927206b", 
+                "name": "Paul Kalkbrenner"
+            }, 
+            "description": "<a href=\"/en/artistes/paul-kalkbrenner_324.html\">Paul Kalkbrenner</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-18T03:30:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/paul-kalkbrenner_324.html"
+        }, 
+        {
+            "artist": {
+                "name": "Egyptrixx"
+            }, 
+            "description": "Night Slugs presents <a href=\"/en/artistes/egyptrixx_332.html\">Egyptrixx</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T04:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/egyptrixx_332.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "6086bab3-0c82-49a8-b0a0-9bcad78095d8", 
+                "name": "Jackmaster"
+            }, 
+            "description": "Numbers presents <a href=\"/en/artistes/jackmaster_349.html\">Jackmaster</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T04:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/jackmaster_349.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "c4c15025-9039-4b4f-bc50-6a7f55ccb682", 
+                "name": "Surgeon"
+            }, 
+            "description": "<a href=\"/en/artistes/surgeon_331.html\">Surgeon</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-18T04:15:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/surgeon_331.html"
+        }, 
+        {
+            "artist": {
+                "name": "L-Vis 1990 b2b Bok Bok"
+            }, 
+            "description": "Night Slugs presents <a href=\"/en/artistes/l-vis-1990-b2b-bok-bok_333.html\">L-Vis 1990 b2b Bok Bok</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T04:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/l-vis-1990-b2b-bok-bok_333.html"
+        }, 
+        {
+            "artist": {
+                "name": "Lory D"
+            }, 
+            "description": "Numbers presents <a href=\"/en/artistes/lory-d_350.html\">Lory D</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T04:45:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/lory-d_350.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "4053126e-d447-4cc4-a72c-fb4eb629a401", 
+                "name": "James Holden"
+            }, 
+            "description": "<a href=\"/en/artistes/james-holden_378.html\">James Holden</a>", 
+            "place": "SonarPub", 
+            "timestamp": "2011-06-18T05:00:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/james-holden_378.html"
+        }, 
+        {
+            "artist": {
+                "name": "Chelis"
+            }, 
+            "description": "<a href=\"/en/artistes/chelis_431.html\">Chelis</a>", 
+            "place": "SonarLab", 
+            "timestamp": "2011-06-18T05:30:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/chelis_431.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "f3757124-7019-4c2c-9349-e4fe776451d3", 
+                "name": "Silent Servant"
+            }, 
+            "description": "<a href=\"/en/artistes/silent-servant_340.html\">Silent Servant</a>", 
+            "place": "SonarClub", 
+            "timestamp": "2011-06-18T05:45:00", 
+            "type": "dj", 
+            "url": "http://2011.sonar.es/en/artistes/silent-servant_340.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "aec84845-f3b5-4033-b7b7-ed65812f2285", 
+                "name": "Noaipre"
+            }, 
+            "description": "<a href=\"/en/artistes/noaipre_370.html\">Noaipre</a>", 
+            "place": "SonarCar", 
+            "timestamp": "2011-06-18T06:15:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/noaipre_370.html"
+        }, 
+        {
+            "artist": {
+                "bmat_id": "489c2f78-926e-4521-a7b0-996b6e20fa2f", 
+                "name": "Alva Noto & Ryuichi Sakamoto"
+            }, 
+            "description": "<a href=\"/en/artistes/alva-noto-ryuichi-sakamoto_410.html\">Alva Noto & Ryuichi Sakamoto</a>", 
+            "place": "Nit Grec-S\u00f3nar (Teatre Grec)", 
+            "timestamp": "2011-06-19T22:00:00", 
+            "type": "live", 
+            "url": "http://2011.sonar.es/en/artistes/alva-noto-ryuichi-sakamoto_410.html"
+        }
+    ], 
+    "location": "Barcelona", 
+    "name": "Sonar", 
+    "year": 2011
+}
